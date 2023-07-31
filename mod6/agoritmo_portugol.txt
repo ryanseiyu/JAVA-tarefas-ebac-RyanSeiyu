@@ -1,0 +1,14 @@
+INÍCIO
+	1.Acordar;
+	2.Levantar;
+	3.Se estiver com sede;
+		1.Pegar garrafa;
+		2.Beber água;
+		3.Ir ao banheiro;
+	4.Se não estiver com sede;
+		1.Ir ao banheiro;
+	5.Lavar o rosto;
+	6.Secar o rosto;
+	7.Verificar comida;
+	8.Comer;
+FIM
