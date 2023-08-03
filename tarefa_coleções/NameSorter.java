@@ -16,6 +16,7 @@ public class NameSorter {
         for (String name : nameList) {
             System.out.println(name.trim());
         }
+        // scanner.close();
         
         Scanner scannerParte2 = new Scanner(System.in);
         System.out.println("Digite o nome da pessoa e seu sexo (ie: João-M,Maria-F):");
@@ -33,11 +34,12 @@ public class NameSorter {
         }
         for (String genre : genreMap.keySet()) {
             ArrayList<String> nameListParte2 = genreMap.get(genre);
-            System.out.println("Names in " + genre + " genre:");
+            System.out.println("Nomes de gênero: " + genre);
             for (String name : nameListParte2) {
                 System.out.println(name);
             }
         }
+        // scannerParte2.close();
         
     }
 }
