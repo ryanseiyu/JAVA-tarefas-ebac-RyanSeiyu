@@ -1,0 +1,9 @@
+{
+    "java.format.settings.url": "eclipse-formatter.xml",
+    "editor.formatOnSave": true,
+    "prettier.semi": true,
+    "[java]": {
+        "editor.detectIndentation": true,
+        "editor.tabSize": 4
+    }
+}
