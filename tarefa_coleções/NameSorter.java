@@ -34,6 +34,7 @@ public class NameSorter {
         }
         for (String genre : genreMap.keySet()) {
             ArrayList<String> nameListParte2 = genreMap.get(genre);
+            // Collections.sort(nameListParte2);
             System.out.println("Nomes de gênero: " + genre);
             for (String name : nameListParte2) {
                 System.out.println(name);
