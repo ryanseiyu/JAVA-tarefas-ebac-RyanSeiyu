@@ -1,0 +1,17 @@
+c:\Users\ryan_\Documents\Git\Java_EBAC\Tarefa_Modulo38\demo\src\main\java\dao\ClienteDAO.java
+c:\Users\ryan_\Documents\Git\Java_EBAC\Tarefa_Modulo38\demo\src\main\java\domain\Persistente.java
+c:\Users\ryan_\Documents\Git\Java_EBAC\Tarefa_Modulo38\demo\src\main\java\exceptions\DAOException.java
+c:\Users\ryan_\Documents\Git\Java_EBAC\Tarefa_Modulo38\demo\src\main\java\dao\generic\IGenericDAO.java
+c:\Users\ryan_\Documents\Git\Java_EBAC\Tarefa_Modulo38\demo\src\main\java\exceptions\TipoChaveNaoEncontradaException.java
+c:\Users\ryan_\Documents\Git\Java_EBAC\Tarefa_Modulo38\demo\src\main\java\controller\ClienteController.java
+c:\Users\ryan_\Documents\Git\Java_EBAC\Tarefa_Modulo38\demo\src\main\java\controller\IndexController.java
+c:\Users\ryan_\Documents\Git\Java_EBAC\Tarefa_Modulo38\demo\src\main\java\exceptions\MaisDeUmRegistroException.java
+c:\Users\ryan_\Documents\Git\Java_EBAC\Tarefa_Modulo38\demo\src\main\java\exceptions\TableException.java
+c:\Users\ryan_\Documents\Git\Java_EBAC\Tarefa_Modulo38\demo\src\main\java\service\generic\GenericService.java
+c:\Users\ryan_\Documents\Git\Java_EBAC\Tarefa_Modulo38\demo\src\main\java\service\ClienteService.java
+c:\Users\ryan_\Documents\Git\Java_EBAC\Tarefa_Modulo38\demo\src\main\java\domain\Cliente.java
+c:\Users\ryan_\Documents\Git\Java_EBAC\Tarefa_Modulo38\demo\src\main\java\dao\generic\GenericDAO.java
+c:\Users\ryan_\Documents\Git\Java_EBAC\Tarefa_Modulo38\demo\src\main\java\service\IClienteService.java
+c:\Users\ryan_\Documents\Git\Java_EBAC\Tarefa_Modulo38\demo\src\main\java\dao\IClienteDAO.java
+c:\Users\ryan_\Documents\Git\Java_EBAC\Tarefa_Modulo38\demo\src\main\java\exceptions\TipoElementoNaoConhecidoException.java
+c:\Users\ryan_\Documents\Git\Java_EBAC\Tarefa_Modulo38\demo\src\main\java\service\generic\IGenericService.java
